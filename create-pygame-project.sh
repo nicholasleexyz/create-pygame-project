@@ -40,5 +40,5 @@ EOM
 
 echo "$TEXT" > main.py
 else
-	echo "Please list a project name"
+echo "Please list a project name"
 fi
